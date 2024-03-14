@@ -20,19 +20,19 @@ Na osnovu člana 38 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Službeni lis
 
 ### I - OPŠTE ODREDBE
 
-#### Član 1
+**Član 1**
 
 Građani ostvaruju pravo na lokalnu samoupravu, radi zadovoljavanja potreba od neposrednog i zajedničkog interesa utvrđenih zakonom i Statutom Glavnog grada.
 
 Građani Glavnog grada sa teritorije opštine Golubovci u okviru Glavnog grada (u daljem tekstu: opština), ostvaruju pravo na lokalnu samoupravu u skladu sa Zakonom o lokalnoj samoupravi, Zakonom o Glavnom gradu, statutom opštine i Statutom Glavnog grada (u daljem teksu: Statut).
 
-#### Član 2
+**Član 2**
 
 Statutom se uređuju: prava i dužnosti Glavnog grada i način njihovog ostvarivanja, poslovi i način odlučivanja stanovništva Glavnog grada, način i uslovi vršenja sopstvenih poslova, organizacija i način rada uprave Glavnog grada, način donošenja propisa, način povjeravanja određenih poslova opštini, način obezbjeđenja javnosti rada organa Glavnog grada i učešća građana u poslovima iz nadležnosti Glavnog grada , finansiranje Glavnog grada, oblik i sadržina simbola Glavnog grada, praznik Glavnog grada i način njegovog obilježavanja, osnivanje i rad mjesne zajednice i drugih oblika mjesne samouprave, uslovi za pokretanje građanske inicijative i druga pitanja od značaja za funkcionisanje lokalne samouprave u Glavnom gradu.
 
 Organizacija organa opštine, način njihovog rada i odlučivanja, oblici neposrednog učešća građana u izjašnjavanju i odlučivanju o poslovima od zajedničkog interesa za stanovništvo opštine, finansiranje i druga pitanja od značaja za funkcionisanje opštine bliže se uređuje statutom opštine, u skladu sa Zakonom o lokalnoj samoupravi i Zakonom o Glavnom gradu.
 
-#### Član 3
+**Član 3**
 
 Izrazi upotrijebljeni u ovom statutu za fizička lica u muškom rodu, podrazumijevaju iste izraze u ženskom rodu.
 
@@ -398,7 +398,7 @@ Organi Glavnog grada su:
 
 \- gradonačelnik Glavnog grada (u daljem tekstu: gradonačelnik)
 
-**1. Skupština**
+#### **1. Skupština**
 
 **Član 39**
 
@@ -1018,7 +1018,7 @@ Nakon okončane rasprave, predsjednik Skupštine daje na glasanje predlog za raz
 
 Sekretar Skupštine, po prestanku funkcije, ostvaruje prava u skladu sa zakonom.
 
-**2. Gradonačelnik**
+#### **2. Gradonačelnik**
 
 **Član 93**
 
@@ -1332,7 +1332,7 @@ Sjednicom Savjeta predsjedava gradonačelnik.
 
 ### VIII - GRADSKA UPRAVA I JAVNE SLUŽBE
 
-**1. Organi uprave Glavnog grada i službe**
+#### **1. Organi uprave Glavnog grada i službe**
 
 **Član 113**
 
@@ -1376,7 +1376,7 @@ Organi uprave Glavnog grada:
 
 Priprema i procjena analize uticaja iz stava 1 tačka 3 ovog člana, vrši se u skladu sa aktom organa državne uprave nadležnog za poslove finansija i dostavlja se uz predlog odluke ili drugog propisa Skupštini, odnosno gradonačelniku.
 
-**2. Način vršenja nadzora**
+#### **2. Način vršenja nadzora**
 
 **Član 116**
 
@@ -1396,7 +1396,7 @@ Nadzor nad zakonitošću i cjelishodnošću rada službe komunalne policije i sl
 
 Organi i službe iz člana 113 ovog statuta podnose gradonačelniku izvještaj o svom radu, do kraja februara tekuće godine za prethodnu godinu.
 
-**3. Glavni administrator**
+#### **3. Glavni administrator**
 
 **Član 118**
 
@@ -1460,7 +1460,7 @@ Gradonačelnik će razriješiti glavnog administratora nakon donošenja akta iz 
 
 Glavni administrator, po prestanku funkcije, ostvaruje prava u skladu sa zakonom.
 
-**4. Starješine organa uprave Glavnog grada**
+#### **4. Starješine organa uprave Glavnog grada**
 
 **Član 123**
 
@@ -1492,7 +1492,7 @@ Pomoćnik starješine organa odnosno službe razrješava se na način i po postu
 
 Akt o razrješenju pomoćnika starješine organa odnosno službe, donosi starješina organa, uz saglasnost gradonačelnika.
 
-**5. Glavni gradski arhitekta**
+#### **5. Glavni gradski arhitekta**
 
 **Član 126**
 
@@ -1508,7 +1508,7 @@ Glavni gradski arhitekta razrješava se iz razloga iz člana 121 ovog statuta.
 
 Glavni gradski arhitekta razrješava se na način i po postupku utvrđenom članom 122 ovog statuta.
 
-**6. Menadžer**
+#### **6. Menadžer**
 
 **Član 127**
 
@@ -1526,7 +1526,7 @@ Menadžeru prestaje mandat i razrješava se zbog razloga iz čl. 120 i 121 ovog 
 
 Menadžer se razrješava na način i po postupku utvrđenom članom 122 ovog statuta.
 
-**7. Lokalni funkcioneri**
+#### **7. Lokalni funkcioneri**
 
 **Član 128**
 
@@ -1540,7 +1540,7 @@ Poslovi gradonačelnika, zamjenika gradonačelnika, glavnog administratora, star
 
 ### IX - OPŠTINA U OKVIRU GLAVNOG GRADA
 
-**1. Organi i poslovi opštine**
+#### **1. Organi i poslovi opštine**
 
 **Član 130**
 
@@ -1650,7 +1650,7 @@ Oblici neposrednog učešća građana u izjašnjavanju i odlučivanju su: inicij
 
 Način i postupak učešća lokalnog stanovništva u izjašnjavanju i odlučivanju o poslovima od zajedničkog interesa bliže se uređuje ovim statutom.
 
-1\. Inicijativa
+#### 1. Inicijativa
 
 **Član 144**
 
@@ -1686,7 +1686,7 @@ O podnijetoj inicijativi nadležni organ uprave Glavnog grada je dužan da zauzm
 
 Ako organ ne postupi po inicijativi, podnosilac inicijative može da se obrati gradonačelniku ili Skupštini.
 
-2\. Građanska inicijativa
+#### 2. Građanska inicijativa
 
 **Član 145**
 
@@ -1734,7 +1734,7 @@ Ako Skupština ne prihvati građansku inicijativu, o pitanju o kojem se pokrenul
 
 O podnijetoj građanskoj inicijativi o pitanjima koja su od značaja za građane opštine, nadležni organ Glavnog grada pribavlja mišljenje skupštine opštine.
 
-3\. Zbor građana
+#### 3. Zbor građana
 
 **Član 148**
 
@@ -1762,9 +1762,9 @@ Zbor građana, većinom glasova prisutnih građana, usvaja zahtjeve i predloge i
 
 Organi Glavnog grada su dužni da, u roku od 60 dana od dana održavanja zbora građana, razmotre zahtjeve i predloge i o njima obavijeste građane.
 
-**4. Referendum**
+#### **4. Referendum**
 
-4.1. Gradski referendum
+**4.1. Gradski referendum**
 
 **Član 152**
 
@@ -1814,7 +1814,7 @@ Skupština je dužna da, u roku od 60 dana od dana održanog referenduma, donese
 
 O pitanju o kojem su se građani na gradskom referendumu izjasnili protiv, ne može se u roku od 12 mjeseci ponovo raspisati gradski referendum.
 
-4.2. Mjesni referendum
+**4.2. Mjesni referendum**
 
 **Član 156**
 
@@ -1840,7 +1840,7 @@ Mjesni referendum je uspio pod uslovima koji su propisani za gradski referendum.
 
 Građani se mogu o određenim pitanjima izjašnjavati pisanim putem i putem anketa i upitnika.
 
-4.3. Samodoprinos
+**4.3. Samodoprinos**
 
 **Član 160**
 
@@ -1858,7 +1858,7 @@ U slučaju iz prethodnog stava, Skupština utvrđuje da je donijeta odluka o uvo
 
 Odluka o uvođenju samodoprinosa sadrži: namjenu, područje, vrijeme za koje se uvodi samodoprinos, ukupan iznos sredstava koja se prikupljaju, obveznike samodoprinosa, lica koja se oslobađaju obaveze, visinu samodoprinosa, način obračunavanja i ostvarivanja nadzora građana nad namjenskim korišćenjem sredstava i druga pitanja od značaja za uvođenje samodoprinosa.
 
-5\. Drugi oblici izjašnjavanja građana
+#### 5. Drugi oblici izjašnjavanja građana
 
 **Član 161**
 
