@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Statut Glavnog grada](README.md)
-* [Page](page.md)
+* [Poslovnik Skupstine Glavnog grada](poslovnik-skupstine-glavnog-grada.md)
