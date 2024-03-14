@@ -348,9 +348,11 @@ Izuzetno od odredbe stava 3 i 4 ovog člana, ugovor o davanju u zakup ili na kor
 
 Glavni grad i javne službe čiji je osnivač Glavni grad, dužne su da vode evidenciju o svojoj imovini u skladu sa zakonom.
 
-Pripremu propisa i drugih akata, sprovođenje postupka, pripremu pojedinčnih akata u oblasti raspolaganja, upravljanja i korišćenja državne imovine, zaštitu imovinsko-pravnih interesa Glavnog grada, kao i procjenu vrijednosti nepokretnosti kojima raspolaže Glavni grad, vrši organ uprave Glavnog grada nadležan za poslove imovine.
+Pripremu propisa i drugih akata, sprovođenje postupka, pripremu pojedinčnih akata u oblasti raspolaganja, upravljanja i korišćenja državne imovine, kao i procjenu vrijednosti nepokretnosti kojima raspolaže Glavni grad, vrši organ uprave Glavnog grada nadležan za poslove imovine.
 
 Izuzetno od stava 2 ovog člana, Glavni grad može odrediti i drugi ovlašćeni organ ili instituciju za procjenu vrijednosti nepokretnosti, u skladu sa zakonom.
+
+Poslove zaštite imovinsko-pravnih interesa Glavnog grada vrši organ uprave nadležan za poslove zastupanja.
 
 ### VI - FINANSIRANJE GLAVNOG GRADA
 
@@ -436,7 +438,7 @@ Konstatovanje mandata odbornika prilikom popune odborničkog mjesta u toku traja
 
 **Član 43**
 
-Skupštinu saziva predsjednik Skupštine po potrebi, a najmanje jednom u tri mjeseca.
+Skupštinu saziva predsjednik Skupštine po potrebi, a dužan je da je sazove najmanje jednom u tri mjeseca.
 
 Predsjednik Skupštine saziva Skupštinu, po sopstvenoj inicijativi, na zahtjev gradonačelnika, jedne trećine odbornika i na inicijativu 2000 punoljetnih građana koji imaju prebivalište na teritoriji Glavnog grada, u roku od 15 dana od dana podnošenja zahtjeva, odnosno inicijative.
 
@@ -448,7 +450,7 @@ Ako predsjednik Skupštine ne sazove sjednicu u roku iz stava 2 ovog člana, sje
 
 Sjednicom Skupštine u slučaju iz stava 5 ovog člana, predsjedava odbornik koga odredi podnosilac zahtjeva, odnosno inicijative.
 
-Sjednica Skupštine održava se, najkasnije u roku od 15 dana od dana sazivanja.
+Sjednica Skupštine održava se, najkasnije u roku od 15 dana od dana sazivanja i mora biti završena najkasnije u roku od tri mjeseca od dana sazivanja.
 
 Odluku ili drugi akt koji Skupština donese potpisuje predsjedavajući Skupštinom.
 
@@ -1267,6 +1269,8 @@ Gradonačelniku prestaje mandat po sili zakona:
 Kad gradonačelniku, u slučajevima propisanim zakonom, prestane mandat, funkciju gradonačelnika, do izbora novog gradonačelnika, vrši zamjenik gradonačelnika, koga odredi Skupština.
 
 U slučaju prestanka mandata gradonačelniku, izbor gradonačelnika izvršiće se najkasnije u roku od 30 dana od dana prestanka mandata.
+
+Ako se gradonačelnik ne izabere u roku iz stava 2 ovog člana, na predlog Vlade ili jedne trećine odbornika, skupština donosi odluku o skraćenju mandata skupštine.
 
 **2.3. Zamjenik gradonačelnika**
 
