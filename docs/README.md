@@ -22,15 +22,11 @@ Na osnovu člana 38 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Službeni lis
 
 **Član 1**
 
-Građani ostvaruju pravo na lokalnu samoupravu, radi zadovoljavanja potreba od neposrednog i zajedničkog interesa utvrđenih zakonom i Statutom Glavnog grada.
-
-Građani Glavnog grada sa teritorije opštine Golubovci u okviru Glavnog grada (u daljem tekstu: opština), ostvaruju pravo na lokalnu samoupravu u skladu sa Zakonom o lokalnoj samoupravi, Zakonom o Glavnom gradu, statutom opštine i Statutom Glavnog grada (u daljem teksu: Statut).
+Građani Glavnog grada ostvaruju pravo na lokalnu samoupravu, radi zadovoljavanja potreba od neposrednog i zajedničkog interesa utvrđenih zakonom i Statutom Glavnog grada.
 
 **Član 2**
 
-Statutom se uređuju: prava i dužnosti Glavnog grada i način njihovog ostvarivanja, poslovi i način odlučivanja stanovništva Glavnog grada, način i uslovi vršenja sopstvenih poslova, organizacija i način rada uprave Glavnog grada, način donošenja propisa, način povjeravanja određenih poslova opštini, način obezbjeđenja javnosti rada organa Glavnog grada i učešća građana u poslovima iz nadležnosti Glavnog grada , finansiranje Glavnog grada, oblik i sadržina simbola Glavnog grada, praznik Glavnog grada i način njegovog obilježavanja, osnivanje i rad mjesne zajednice i drugih oblika mjesne samouprave, uslovi za pokretanje građanske inicijative i druga pitanja od značaja za funkcionisanje lokalne samouprave u Glavnom gradu.
-
-Organizacija organa opštine, način njihovog rada i odlučivanja, oblici neposrednog učešća građana u izjašnjavanju i odlučivanju o poslovima od zajedničkog interesa za stanovništvo opštine, finansiranje i druga pitanja od značaja za funkcionisanje opštine bliže se uređuje statutom opštine, u skladu sa Zakonom o lokalnoj samoupravi i Zakonom o Glavnom gradu.
+Statutom se uređuju: prava i dužnosti Glavnog grada i način njihovog ostvarivanja, poslovi i način odlučivanja stanovništva Glavnog grada, način i uslovi vršenja sopstvenih poslova, organizacija i način rada uprave Glavnog grada, način donošenja propisa, način obezbjeđenja javnosti rada organa Glavnog grada i učešća građana u poslovima iz nadležnosti Glavnog grada , finansiranje Glavnog grada, oblik i sadržina simbola Glavnog grada, praznik Glavnog grada i način njegovog obilježavanja, osnivanje i rad mjesne zajednice i drugih oblika mjesne samouprave, uslovi za pokretanje građanske inicijative i druga pitanja od značaja za funkcionisanje lokalne samouprave u Glavnom gradu.
 
 **Član 3**
 
@@ -42,7 +38,7 @@ Izrazi upotrijebljeni u ovom statutu za fizička lica u muškom rodu, podrazumij
 
 **Član 4**
 
-Glavni grad i opština obuhvataju teritoriju utvrđenu zakonom kojim se utvrđuje teritorijalna organizacija Crne Gore.
+Glavni grad obuhvata teritoriju utvrđenu zakonom kojim se utvrđuje teritorijalna organizacija Crne Gore.
 
 Granice područja naselja i nazivi naselja Glavnog grada utvrđuju se odlukom Skupštine Glavnog grada, u skladu sa zakonom kojim se uređuje teritorijalna organizacija Crne Gore.
 
@@ -50,9 +46,7 @@ Teritorija Glavnog grada Podgorica, sa sjedištem u Podgorici, obuhvata:
 
 \- teritoriju Podgorice kao naselja gradskog karaktera: Blok V, Budo Tomović, Vranići, Vranićke njive, Vrela Ribnička, Golužba, Gornja Gorica, Gornji Vranići, Dajbabe, Drač, Doljani, Donja Gorica, Kakaricka gora, Konik, Kruševac, Malo brdo, Mareza, Masline, Momišići, Murtovina, Nova Varoš, Novi Grad, Park šuma Zagorič, 1. maj, Račice, Sadine, Stara Varoš, Stari aerodrom, Stara Zlatica, Tološi, Zabjelo, Zagorič, Zelenika i Zlatica;
 
-\- naselja: Baloči, Begova Glavica, Bezjovo, Beri, Bigor, Bioče, Blizna, Bolesestra, Brežine, Briđe, Brskut, Buronje, Crnci, Crvena Paprat, Cvilin, Ćafa, Ćepetići, Dolovi, Donje Stravče, Donji Kokoti, Draževina, Dučići, Duga, Đurkovići, Duške, Farmaci, Fundina, Goljemadi, Gornje Stravče, Gornji Kokoti, Gradac, Grbavci, Grbi Do, Kisjelica, Klopot, Kopilje, Kornet, Kosor, Krusi, Kržanja, Lekići, Liješnje, Liješta, Lijeva Rijeka, Lopate, Lutovo, Lužnica, Medun, Milati, Momče, Mrke, Opasanica, Orahovo, Oraovice, Orasi, Ožezi, Parci, Pelev Brijeg, Petrovići, Podstrana, Prisoja, Progonovići, Raći, Radeća, Radovče, Releza, Rijeka Piperska, Rogami, Pričelje, Seoci, Seoštica, Sjenice, Slacko, Smokovac, Staniselići, Stanjevića Rupa, Stijena, Stupovi, Trmanje, Ubalac, Ubli, Velje Brdo, Veruša, Vidijenje, Vilac, Vrbica, Zagrada i Zaugao i druga naselja utvrđena posebnom odlukom Glavnog grada;
-
-\- teritoriju opštine Golubovci, sa naseljima: Anovi, koji su i sjedište opštine, Balabani, Berislavci, Bijelo Polje, Bistrice, Botun, Vranjina, Vukovci, Golubovci, Goričani, Gostilj, Gošići, Donja Cijevna, Kurilo, Ljajkovići, Mataguži, Mahala, Mitrovići, Mojanovići, Ponari, Srpska i Šušunja i druga naselja utvrđena posebnom odlukom opštine u okviru Glavnog grada.
+\- naselja: Baloči, Begova Glavica, Bezjovo, Beri, Bigor, Bioče, Blizna, Bolesestra, Brežine, Briđe, Brskut, Buronje, Crnci, Crvena Paprat, Cvilin, Ćafa, Ćepetići, Dolovi, Donje Stravče, Donji Kokoti, Draževina, Dučići, Duga, Đurkovići, Duške, Farmaci, Fundina, Goljemadi, Gornje Stravče, Gornji Kokoti, Gradac, Grbavci, Grbi Do, Kisjelica, Klopot, Kopilje, Kornet, Kosor, Krusi, Kržanja, Lekići, Liješnje, Liješta, Lijeva Rijeka, Lopate, Lutovo, Lužnica, Medun, Milati, Momče, Mrke, Opasanica, Orahovo, Oraovice, Orasi, Ožezi, Parci, Pelev Brijeg, Petrovići, Podstrana, Prisoja, Progonovići, Raći, Radeća, Radovče, Releza, Rijeka Piperska, Rogami, Pričelje, Seoci, Seoštica, Sjenice, Slacko, Smokovac, Staniselići, Stanjevića Rupa, Stijena, Stupovi, Trmanje, Ubalac, Ubli, Velje Brdo, Veruša, Vidijenje, Vilac, Vrbica, Zagrada i Zaugao i druga naselja utvrđena posebnom odlukom Glavnog grada.
 
 **Član 5**
 
@@ -122,7 +116,7 @@ Počasnim građaninom Glavnog grada može se proglasiti lice koje je posebno zas
 
 O proglašenju za počasnog građanina odlučuje Skupština Glavnog grada.
 
-Predlog za proglašenje počasnim građaninom mogu podnijeti: građani, udruženja građana, odbornik u Skupštini Glavnog grada, gradonačelnik, skupština opštine, javnopravni organi, privredna društva i ustanove.
+Predlog za proglašenje počasnim građaninom mogu podnijeti: građani, udruženja građana, odbornik u Skupštini Glavnog grada, gradonačelnik, javnopravni organi, privredna društva i ustanove.
 
 Postupak za proglašenje počasnim građaninom sprovodi radno tijelo Skupštine Glavnog grada nadležno za izbor i imenovanja.
 
@@ -186,7 +180,7 @@ Opšti akti koje donose organi lokalne samouprave u Glavnom gradu objavljuju se 
 
 Glavni grad samostalno obavlja poslove lokalne samouprave koji su od neposrednog i zajedničkog interesa za stanovništvo Glavnog grada, u skladu sa zakonom i ovim statutom.
 
-Poslove iz svoje nadležnosti Glavni grad vrši preko svojih organa, organa opštine, organa mjesne zajednice i javnih službi u skladu sa zakonom, ovim statutom i drugim aktima.
+Poslove iz svoje nadležnosti Glavni grad vrši preko svojih organa, organa mjesne zajednice i javnih službi u skladu sa zakonom, ovim statutom i drugim aktima.
 
 **Član 23**
 
@@ -638,37 +632,35 @@ Skupština:
 
 50\) utvrđuje način i postupak učešća građana u vršenju javnih poslova;
 
-51\) daje mišljenje skupštini opštine o podnijetoj građanskoj inicijativi o pitanjima iz nadležnosti Glavnog grada, koja su od značaja za opštinu;
+51\) donosi program podizanja spomen-obilježja;
 
-52\) donosi program podizanja spomen-obilježja;
+52\) određuje nazive naselja, ulica i trgova;
 
-53\) određuje nazive naselja, ulica i trgova;
+53\) donosi odluku o broju odbornika u Skupštini;
 
-54\) donosi odluku o broju odbornika u Skupštini;
+54\) donosi odluku o emisiji hartija od vrijednosti;
 
-55\) donosi odluku o emisiji hartija od vrijednosti;
+55\) propisuje uslove i način davanja poklona domaćim i stranim pravnim i fizičkim licima iz imovine Glavnog grada;
 
-56\) propisuje uslove i način davanja poklona domaćim i stranim pravnim i fizičkim licima iz imovine Glavnog grada;
+56\) imenuje i razrješava organe upravljanja i organe rukovođenja u javnim službama, odnosno daje saglasnost na imenovanje i razrješenje organa rukovođenja javnih službi čiji je osnivač Glavni grad;
 
-57\) imenuje i razrješava organe upravljanja i organe rukovođenja u javnim službama, odnosno daje saglasnost na imenovanje i razrješenje organa rukovođenja javnih službi čiji je osnivač Glavni grad;
+57\) daje saglasnost na statut javnih službi, na statusne promjene, povećanje i smanjenje glavnice, na cijene komunalnih usluga, na plan razvoja i program rada i druge programske akte javnih službi;
 
-58\) daje saglasnost na statut javnih službi, na statusne promjene, povećanje i smanjenje glavnice, na cijene komunalnih usluga, na plan razvoja i program rada i druge programske akte javnih službi;
+58\) donosi plan zaštite i spašavanja;
 
-59\) donosi plan zaštite i spašavanja;
+59\) propisuje prekršaje za povrede propisa Glavnog grada;
 
-60\) propisuje prekršaje za povrede propisa Glavnog grada;
+60\) donosi odluku o naknadi za rad odbornika;
 
-61\) donosi odluku o naknadi za rad odbornika;
+61\) donosi odluku o osnivanju Asocijacije opština za teritoriju Crne Gore;
 
-62\) donosi odluku o osnivanju Asocijacije opština za teritoriju Crne Gore;
+62\) odlučuje o saradnji i udruživanju sa lokalnim zajednicama i asocijacijama drugih zemalja;
 
-63\) odlučuje o saradnji i udruživanju sa lokalnim zajednicama i asocijacijama drugih zemalja;
+63\) donosi odluku o zaključenju ugovora sa drugom opštinom radi zajedničkog vršenja određenih poslova iz sopstvene nadležnosti;
 
-64\) donosi odluku o zaključenju ugovora sa drugom opštinom radi zajedničkog vršenja određenih poslova iz sopstvene nadležnosti;
+64\) pokreće inicijativu za izmjene i dopune zakona i drugih propisa;
 
-65\) pokreće inicijativu za izmjene i dopune zakona i drugih propisa;
-
-66\) vrši i druge poslove utvrđene zakonom i ovim statutom.
+65\) vrši i druge poslove utvrđene zakonom i ovim statutom.
 
 Skupština ima stručnu službu.
 
@@ -1124,43 +1116,41 @@ Gradonačelnik:
 
 20\) donosi akte iz svoje nadležnosti i akte u izvršavanju prenesenih i povjerenih poslova, ako posebnim propisom nije drugačije utvrđeno;
 
-21\) obavještava Vladu o nepravilnostima u radu Skupštine opštine i predlaže preduzimanje odgovarajućih mjera, u slučajevima predviđenim zakonom;
+21\) odgovoran je za izvršavanje odluka i drugih akata koje donosi Skupština i donosi akte za njihovo izvršavanje;
 
-22\) odgovoran je za izvršavanje odluka i drugih akata koje donosi Skupština i donosi akte za njihovo izvršavanje;
+22\) donosi akte kojima obezbjeđuje izvršenje budžeta Glavnog grada;
 
-23\) donosi akte kojima obezbjeđuje izvršenje budžeta Glavnog grada;
+23\) donosi kadrovski plan;
 
-24\) donosi kadrovski plan;
+24\) donosi plan integriteta;
 
-25\) donosi plan integriteta;
+25\) donosi godišnji plan obuka lokalnih službenika i namještenika;
 
-26\) donosi godišnji plan obuka lokalnih službenika i namještenika;
+26\) stara se o racionalnom korišćenju imovine Glavnog grada i odlučuje o raspolaganju i korišćenju pokretnih stvari i drugih dobara manje vrijednosti, izuzev davanja poklona;
 
-27\) stara se o racionalnom korišćenju imovine Glavnog grada i odlučuje o raspolaganju i korišćenju pokretnih stvari i drugih dobara manje vrijednosti, izuzev davanja poklona;
+27\) raspolaže sredstvima tekuće budžetske rezerve, u skladu sa odlukom Skupštine;
 
-28\) raspolaže sredstvima tekuće budžetske rezerve, u skladu sa odlukom Skupštine;
+28\) donosi odluku o ulaganjima, u skladu sa utvrđenom investicionom politikom;
 
-29\) donosi odluku o ulaganjima, u skladu sa utvrđenom investicionom politikom;
+29\) daje mišljenje o predlogu odluka i drugih akata koje Skupštini podnesu drugi predlagači;
 
-30\) daje mišljenje o predlogu odluka i drugih akata koje Skupštini podnesu drugi predlagači;
+30\) rješava sukob nadležnosti između organa uprave Glavnog grada, javnih službi i pravnih lica, kojima je odlukom Skupštine povjereno vršenje određenih poslova;
 
-31\) rješava sukob nadležnosti između organa uprave Glavnog grada, javnih službi i pravnih lica, kojima je odlukom Skupštine povjereno vršenje određenih poslova;
+31\) odlučuje o izuzeću starješine organa i glavnog administratora, za postupanje u određenoj upravnoj stvari;
 
-32\) odlučuje o izuzeću starješine organa i glavnog administratora, za postupanje u određenoj upravnoj stvari;
+32\) vrši nadzor nad zakonitošću i cjelishodnošću rada Službe komunalne policije i Službe zaštite i spašavanja;
 
-33\) vrši nadzor nad zakonitošću i cjelishodnošću rada Službe komunalne policije i Službe zaštite i spašavanja;
+33\) obrazuje Savjet gradonačelnika;
 
-34\) obrazuje Savjet gradonačelnika;
+34\) obrazuje stručna radna tijela za poslove iz svog djelokruga;
 
-35\) obrazuje stručna radna tijela za poslove iz svog djelokruga;
+35\) donosi Poslovnik o svom radu;
 
-36\) donosi Poslovnik o svom radu;
+36\) privremeno donosi akte iz nadležnosti Skupštine, u skladu sa zakonom;
 
-37\) privremeno donosi akte iz nadležnosti Skupštine, u skladu sa zakonom;
+37\) vrši raspored službenih zgrada i poslovnih zgrada na korišćenje organima uprave Glavnog grada i odlučuje o korišćenju, pribavljanju i otuđenju prevoznih sredstava za potrebe rada organa uprave Glavnog grada;
 
-38\) vrši raspored službenih zgrada i poslovnih zgrada na korišćenje organima uprave Glavnog grada i odlučuje o korišćenju, pribavljanju i otuđenju prevoznih sredstava za potrebe rada organa uprave Glavnog grada;
-
-39\) vrši i druge poslove u skladu sa zakonom, ovim statutom i drugim opštim aktima.
+38\) vrši i druge poslove u skladu sa zakonom, ovim statutom i drugim opštim aktima.
 
 Gradonačelnik ima stručnu službu kojom rukovodi.
 
@@ -1320,13 +1310,11 @@ Savjet gradonačelnika razmatra pitanja od interesa za razvoj Glavnog grada i da
 
 \- opštim i drugim aktima kojima se utvrđuju prava i obaveze građana,
 
-\- aktima o povjeravanju poslova opštini,
-
 \- izvještaju o radu organa uprave Glavnog grada i javnih službi i unapređenju i razvoju javnih službi, kvalitetu pružanja javnih usluga, i
 
 \- o drugim pitanjima od značaja za razvoj Glavnog grada.
 
-Savjet gradonačelnika čine: predsjednik opštine, predsjednik Savjeta za razvoj i zaštitu lokalne samouprave Glavnog grada, predstavnik skupštinskog odbora za sistem lokalne samouprave i određeni broj privrednika, naučnih i stručnih lica.
+Savjet gradonačelnika čine: predsjednik Savjeta za razvoj i zaštitu lokalne samouprave Glavnog grada, predstavnik skupštinskog odbora za sistem lokalne samouprave i određeni broj privrednika, naučnih i stručnih lica.
 
 Aktom o obrazovanju Savjeta uređuje se broj članova, način rada i druga pitanja od značaja za rad Savjeta.
 
@@ -1424,7 +1412,7 @@ Glavni administrator:
 
 \- podnosi gradonačelniku godišnji izvještaj o radu i druge izvještaje na zahtjev gradonačelnika;
 
-\- rješava sukob nadležnosti između organa uprave Glavnog grada i sukob nadležnosti između organa lokalne uprave opštine i organa uprave Glavnog grada;
+\- rješava sukob nadležnosti između organa uprave Glavnog grada;
 
 \- vrši druge poslove utvrđene zakonom, Statutom Glavnog grada i aktima gradonačelnika.
 
@@ -1541,64 +1529,6 @@ O pravima i obavezama lokalnih funkcionera odlučuje radno tijelo Skupštine nad
 **Član 129**
 
 Poslovi gradonačelnika, zamjenika gradonačelnika, glavnog administratora, starješine organa, odnosno službe, glavnog gradskog arhitekte, menadžera i rukovodilaca javnih službi nespojivi su sa funkcijom odbornika.
-
-### IX - OPŠTINA U OKVIRU GLAVNOG GRADA
-
-#### **1. Organi i poslovi opštine**
-
-**Član 130**
-
-Organi opštine su skupština opštine i predsjednik opštine.
-
-Radi obezbjeđivanja vršenja poslova od neposrednog interesa za lokalno stanovništvo, opština osniva organe lokalne uprave i javne službe.
-
-**Član 131**
-
-Opština i organi opštine vrše poslove u skladu sa Zakonom o lokalnoj samoupravi, Zakonom o Glavnom gradu, statutom opštine i Statutom Glavnog grada.
-
-**Član 132**
-
-Pored poslova utvrđenih Zakonom, Skupština može povjeriti opštini obavljanje i drugih poslova.
-
-Predlog akta o povjeravanju poslova može Skupštini podnijeti gradonačelnik i skupština opštine.
-
-Aktom o povjeravanju određuju se poslovi, način i uslovi njihovog izvršavanja, sredstva za izvršavanje poslova, broj izvršilaca, odgovornost za izvršenje poslova i druga pitanja u vezi sa vršenjem povjerenih poslova.
-
-O predlogu iz prethodnog stava izjašnjava se Savjet gradonačelnika.
-
-**Član 133**
-
-U pogledu kontrole zakonitosti vršenja poslova koje Glavni grad povjeri opštini, na pitanja koja nijesu uređena ovim statutom, shodno se primjenjuju propisi o državnoj upravi.
-
-**Član 134**
-
-Kontrolu zakonitosti u obavljanju povjerenih poslova vrše organi Glavnog grada.
-
-Shodno svojim nadležnostima, Skupština ima pravo i obavezu da daje prethodnu saglasnost na sve propise i akte koje donose organi opštine u vezi sa vršenjem povjerenih poslova.
-
-Shodno svojim nadležnostima, gradonačelnik ima pravo i obavezu da:
-
-1\) daje saglasnost na akt o organizaciji i sistematizaciji organa lokalne uprave opštine, u dijelu koji se odnosi na povjerene poslove i uslovima za vršenje povjerenih poslova;
-
-2\) daje obavezna uputstva za vršenje povjerenih poslova i pruža stručnu pomoć;
-
-3\) vrši kontrolu na osnovu podataka, izvještaja i obavještenja od značaja za obavljanje povjerenih poslova Glavnog grada;
-
-4\) pisano upozori organ lokalne uprave opštine na neizvršavanje povjerenih poslova i naloži da, u određenom roku, obezbijedi izvršenje posla;
-
-5\) pisano upozori organ i odredi rok za otklanjanje nepravilnosti, kada utvrdi da povjerene poslove ne izvršava u skladu sa zakonom i ovim statutom.
-
-**Član 135**
-
-Kada organ lokalne uprave opštine ne postupi po upozorenju iz člana 134 ovog statuta, gradonačelnik može da zaduži organ uprave Glavnog grada da, o trošku organa lokalne uprave opštine, neposredno obavi pojedini zadatak iz povjerenih poslova.
-
-Gradonačelnik je dužan postupiti na način iz stava 1 ovog člana kada propuštanjem obavljanja posla mogu nastati štetne posljedice za život i zdravlje ljudi, životnu sredinu ili imovinu i ostvarivanje prava i interesa građana.
-
-Organ uprave Glavnog grada donosi rješenje o troškovima iz st. 1 i 2 ovog člana.
-
-**Član 136**
-
-Po žalbi na pojedinačni akt koji u prvom stepenu donosi organ lokalne uprave opštine u vršenju povjerenih poslova, odlučuje glavni administrator Glavnog grada, u drugostepenom upravnom postupku.
 
 ### X - MJESNA SAMOUPRAVA
 
@@ -1736,8 +1666,6 @@ Kada Skupština prihvati građansku inicijativu određuje zadatke nadležnim org
 
 Ako Skupština ne prihvati građansku inicijativu, o pitanju o kojem se pokrenula građanska inicijativa, može se raspisati referendum u roku od 90 dana od dana odlučivanja po inicijativi.
 
-O podnijetoj građanskoj inicijativi o pitanjima koja su od značaja za građane opštine, nadležni organ Glavnog grada pribavlja mišljenje skupštine opštine.
-
 #### 3. Zbor građana
 
 **Član 148**
@@ -1850,7 +1778,7 @@ Građani se mogu o određenim pitanjima izjašnjavati pisanim putem i putem anke
 
 O uvođenju samodoprinosa građani odlučuju na referendumu.
 
-Inicijativu za uvođenje samodoprinosa mogu podnijeti: najmanje jedna trećina odbornika, gradonačelnik, predsjednik opštine ili 5% građana koji imaju biračko pravo sa teritorije za koju se odlučuje o uvođenju samodoprinosa.
+Inicijativu za uvođenje samodoprinosa mogu podnijeti: najmanje jedna trećina odbornika, gradonačelnik ili 5% građana koji imaju biračko pravo sa teritorije za koju se odlučuje o uvođenju samodoprinosa.
 
 Uz inicijativu za uvođenje samodoprinosa podnosi se program kojim se utvrđuju izvori, namjena i način obezbjeđivanja ukupnih finansijskih sredstava za realizaciju samodoprinosa.
 
