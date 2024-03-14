@@ -3,13 +3,13 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Statut Glavnog grada
@@ -1936,7 +1936,7 @@ Gradonačelnik će, najmanje jedanput godišnje, organizovati radni sastanak pre
 
 Gradonačelnik će, najmanje jedanput godišnje, organizovati radni sastanak glavnog administratora, starješina organa i javnih službi i predstavnika nevladinog sektora u cilju razmatranja dostignutog stepena i unapređenja dalje saradnje.
 
-### XIV- JAVNOST I TRANSPARENTNOST RADA
+### XIV - JAVNOST I TRANSPARENTNOST RADA
 
 **Član 171**
 
