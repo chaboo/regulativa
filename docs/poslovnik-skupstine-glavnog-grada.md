@@ -444,21 +444,23 @@ Odborničko pitanje postavlja se na posebnoj sjednici Skupštine, posvećenoj po
 
 Odborničko pitanje prethodno se dostavlja predsjedniku Skupštine u pisanoj formi, u periodu između sjednica iz stava 1 ovog člana, a najkasnije 15 dana prije početka sjednice na kojoj se pitanje postavlja.
 
+Predsjednik Skupštine je dužan da, najkasnije sedam dana prije sazivanja sjednice Skupštine, na web sajtu Skupštine objavi do kada odbornici mogu dostavljati odbornička pitanja.
+
 Izuzetno, predsjednik Skupštine može predložiti da se na sjednici iz stava 1 ovog člana, razmatra najviše pet predloga akata, odnosno materijala iz nadležnosti Skupštine koje su podnijeli ovlašćeni predlagači u skladu sa odredbama ovog poslovnika.
 
-Na posebnoj sjednici Skupštine, predlozi iz stava 3 ovog člana se razmatraju nakon završenog postupka davanja odgovora na odbornička pitanja.
+Na posebnoj sjednici Skupštine, predlozi iz stava 4 ovog člana se razmatraju nakon završenog postupka davanja odgovora na odbornička pitanja.
 
-Na sazivanje sjednice, utvrđivanje dnevnog reda, način rada i odlučivanja i druga pitanja koja se odnose na rad posebne sjednice u slučaju iz stava 3 ovog člana, primjenjuju se odredbe ovog poslovnika koje se odnose na rad redovne sjednice Skupštine.
+Na sazivanje sjednice, utvrđivanje dnevnog reda, način rada i odlučivanja i druga pitanja koja se odnose na rad posebne sjednice u slučaju iz stava 4 ovog člana, primjenjuju se odredbe ovog poslovnika koje se odnose na rad redovne sjednice Skupštine.
 
 **Član 54**
 
-Odborničko pitanje postavlja se usmeno na sjednici, treba da bude jasno formulisano i ne može imati obilježje rasprave.
+Dostavljeno odborničko pitanje se izlaže usmeno na sjednici, treba da bude jasno formulisano i ne može imati obilježje rasprave.
 
 Odborničko pitanje može biti obrazloženo_._
 
 Ako smatra da postavljeno odborničko pitanje nije u skladu sa odredbama ovog poslovnika, predsjednik Skupštine će na to upozoriti odbornika koji je postavio pitanje i pozvati ga da svoje pitanje uskladi sa tim odredbama.
 
-Vrijeme za postavljanje jednog odborničkog pitanja iznosi najviše tri minuta.
+Vrijeme za izlaganje jednog odborničkog pitanja iznosi najviše tri minuta.
 
 Odbornik ne može govoriti povodom odborničkog pitanja, odgovora na odborničko pitanje i komentara odgovora drugog odbornika.
 
@@ -474,7 +476,7 @@ Odgovor na odborničko pitanje daje se usmeno, odmah nakon što odbornik završi
 
 Pisani odgovor na odborničko pitanje daje se na izričit zahtjev odbornika koji je postavio pitanje.
 
-Pisani odgovor iz stava 1 ovog člana dostavlja se preko predsjednika Skupštine, najkasnije do početka naredne sjednice posvećene odborničkim pitanjima.
+Pisani odgovor iz stava 1 ovog člana dostavlja se preko predsjednika Skupštine, najkasnije 24 sata prije održavanja sjednice posvećene odborničkim pitanjima.
 
 **Komentar odgovora i dopunsko pitanje**
 
@@ -488,7 +490,7 @@ Dopunsko pitanje se može postaviti samo jedanput.
 
 Odgovor na dopunsko pitanje daje se usmeno odmah nakon što odbornik završi sa postavljanjem pitanja ili na kraju iste sjednice.
 
-Izuzetno, gradonačelnik može dati odgovor na dopunsko pitanje samo u pisanoj formi, preko predsjednika Skupštine, najkasnije do početka naredne sjednice Skupštine posvećene odborničkim pitanjima.
+Izuzetno, gradonačelnik može dati odgovor na dopunsko pitanje samo u pisanoj formi, preko predsjednika Skupštine, najkasnije 24 sata prije održavanja sjednice Skupštine posvećene odborničkim pitanjima.
 
 Odgovor na dopunsko pitanje daje se shodno odredbi ovog poslovnika koja se odnosi na odgovor na odborničko pitanje.
 
